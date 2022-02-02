@@ -1,0 +1,34 @@
+{
+  "mentors": [
+    {
+      "Name": "saad mohammad",
+      "desig": "software developer",
+      "city": "nanded",
+      "phone": "498489489",
+      "Speciality": "React",
+      "country": "nanded",
+      "Experience": "1",
+      "id": 3
+    },
+    {
+      "Name": "saad mohammad",
+      "desig": "software developer",
+      "city": "nanded",
+      "phone": "986008845",
+      "Speciality": "React",
+      "country": "india",
+      "Experience": "1",
+      "id": 4
+    },
+    {
+      "Name": "fjweqjf",
+      "desig": "qflwekn",
+      "city": "kapod",
+      "phone": "748948989",
+      "Speciality": "goijoig",
+      "country": "foiwefoiw",
+      "Experience": "1+ years",
+      "id": 5
+    }
+  ]
+}

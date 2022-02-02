@@ -1,0 +1,30 @@
+.maindivadd{
+    border: 2px solid black;
+    border-radius: 20px;
+    padding: 40px;
+    width: 50rem;
+    margin: 20px auto;
+    margin-left: 20rem !important;
+    font-weight: bold;
+    box-shadow: 19px 25px 25px 5px rgba(0,0,0,0.75);
+    position: relative;
+}
+
+.sub-btn{
+    width: 40rem;
+    margin-left: 20px;
+}
+.error{
+    color: red;
+    /* position: relative;
+    float:right !important; */
+    /* display:inline-flex;
+    justify-content: flex-end; */
+    right: 0;
+}
+
+.LabelDiv{
+    display: inline-flex;
+     column-gap: 420px;
+     
+}

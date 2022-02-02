@@ -1,0 +1,52 @@
+
+.div1{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 30px;
+}
+
+.card1{
+          width: 18rem;
+          /* height: 25rem; */
+          padding: 5px;
+          margin: 10px;
+          border: 2px solid black !important;
+          text-align: center;
+          border-radius: 20px;
+}
+
+.btn-1{
+    padding: 10px;
+    color: blanchedalmond;
+    background-color: black;
+    border-radius: 10px;
+    text-decoration: none;
+    font-weight: bold;
+}
+.btn-1:hover{
+    color: black;
+    background-color: whitesmoke;
+}
+abc{background-image: url(./pics/bg2.jpg);}
+
+.l1{
+
+text-decoration: none;
+    padding:10px;
+    color: azure;
+}
+.card1{
+    /* height: 500px; */
+    border-radius: 10px!important;
+    background-color: black!important;
+   
+}
+.btn-1{
+    margin: 10px;
+    background-color: burlywood!important;
+}
+.c1{
+    background-color: cadetblue!important;  
+    border-radius: 20px!important;
+}
+   
