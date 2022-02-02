@@ -28,8 +28,8 @@
     "yarn": "^1.22.17"
   },
   "scripts": {
-    "predeploy":"npm run build",
-    "deploy":"gh- pages -d build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "json-server": "json-server --watch src/DB/db.json --host 127.0.0.1 --port 3003",
     "dev": "concurrently \"npm start\" \"npm run json-server\"",
