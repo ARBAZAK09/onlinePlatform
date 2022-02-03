@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/onlinePlatform%20/static/css/main.cbe2fc29.chunk.css",
-    "main.js": "/onlinePlatform%20/static/js/main.fc9768a8.chunk.js",
-    "main.js.map": "/onlinePlatform%20/static/js/main.fc9768a8.chunk.js.map",
-    "runtime-main.js": "/onlinePlatform%20/static/js/runtime-main.4b2a19d6.js",
-    "runtime-main.js.map": "/onlinePlatform%20/static/js/runtime-main.4b2a19d6.js.map",
-    "static/css/2.383c0125.chunk.css": "/onlinePlatform%20/static/css/2.383c0125.chunk.css",
-    "static/js/2.c6adb011.chunk.js": "/onlinePlatform%20/static/js/2.c6adb011.chunk.js",
-    "static/js/2.c6adb011.chunk.js.map": "/onlinePlatform%20/static/js/2.c6adb011.chunk.js.map",
-    "static/js/3.4508ef77.chunk.js": "/onlinePlatform%20/static/js/3.4508ef77.chunk.js",
-    "static/js/3.4508ef77.chunk.js.map": "/onlinePlatform%20/static/js/3.4508ef77.chunk.js.map",
-    "index.html": "/onlinePlatform%20/index.html",
-    "static/css/2.383c0125.chunk.css.map": "/onlinePlatform%20/static/css/2.383c0125.chunk.css.map",
-    "static/css/main.cbe2fc29.chunk.css.map": "/onlinePlatform%20/static/css/main.cbe2fc29.chunk.css.map",
-    "static/js/2.c6adb011.chunk.js.LICENSE.txt": "/onlinePlatform%20/static/js/2.c6adb011.chunk.js.LICENSE.txt",
-    "static/media/mentors.css": "/onlinePlatform%20/static/media/bg2.ba7825f7.jpg"
+    "main.css": "/onlinePlatform/static/css/main.f98ab7df.chunk.css",
+    "main.js": "/onlinePlatform/static/js/main.fc9768a8.chunk.js",
+    "main.js.map": "/onlinePlatform/static/js/main.fc9768a8.chunk.js.map",
+    "runtime-main.js": "/onlinePlatform/static/js/runtime-main.fc9d746a.js",
+    "runtime-main.js.map": "/onlinePlatform/static/js/runtime-main.fc9d746a.js.map",
+    "static/css/2.383c0125.chunk.css": "/onlinePlatform/static/css/2.383c0125.chunk.css",
+    "static/js/2.c6adb011.chunk.js": "/onlinePlatform/static/js/2.c6adb011.chunk.js",
+    "static/js/2.c6adb011.chunk.js.map": "/onlinePlatform/static/js/2.c6adb011.chunk.js.map",
+    "static/js/3.4508ef77.chunk.js": "/onlinePlatform/static/js/3.4508ef77.chunk.js",
+    "static/js/3.4508ef77.chunk.js.map": "/onlinePlatform/static/js/3.4508ef77.chunk.js.map",
+    "index.html": "/onlinePlatform/index.html",
+    "static/css/2.383c0125.chunk.css.map": "/onlinePlatform/static/css/2.383c0125.chunk.css.map",
+    "static/css/main.f98ab7df.chunk.css.map": "/onlinePlatform/static/css/main.f98ab7df.chunk.css.map",
+    "static/js/2.c6adb011.chunk.js.LICENSE.txt": "/onlinePlatform/static/js/2.c6adb011.chunk.js.LICENSE.txt",
+    "static/media/mentors.css": "/onlinePlatform/static/media/bg2.ba7825f7.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.4b2a19d6.js",
+    "static/js/runtime-main.fc9d746a.js",
     "static/css/2.383c0125.chunk.css",
     "static/js/2.c6adb011.chunk.js",
-    "static/css/main.cbe2fc29.chunk.css",
+    "static/css/main.f98ab7df.chunk.css",
     "static/js/main.fc9768a8.chunk.js"
   ]
 }
