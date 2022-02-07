@@ -12,11 +12,11 @@ const Landing = () => {
     <div className="abc">
       <Router>
         <Switch>
-          <Route exact path="/onlinePlatform/" component={Main} />
-          <Route exact path="/onlinePlatform/allMent" component={Mentors} />
-          <Route exact path="/onlinePlatform/addMent" component={AddMentors} />
-          <Route exact path="/onlinePlatform/about" component={Aboutus} />
-          <Route exact path="/onlinePlatform/contact" component={Contactus} />
+          <Route exact path="/" component={Main} />
+          <Route exact path="/allMent" component={Mentors} />
+          <Route exact path="/addMent" component={AddMentors} />
+          <Route exact path="/about" component={Aboutus} />
+          <Route exact path="/contact" component={Contactus} />
         </Switch>
       </Router>
     </div>
