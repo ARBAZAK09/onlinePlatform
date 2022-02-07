@@ -1,5 +1,3 @@
-
-
 import Landing from "./components/Landing";
 import Chatbot from "react-chatbot-kit";
 import config from "./components/chatbot/config";
