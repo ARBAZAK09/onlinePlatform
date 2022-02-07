@@ -1,5 +1,5 @@
 import React from "react";
-import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
+import { HashRouter as Router, Route, Switch } from "react-router-dom";
 
 import Mentors from "./Mentors";
 import AddMentors from "./AddMentors";
@@ -12,7 +12,7 @@ const Landing = () => {
     <div className="abc">
       <Router>
         <Switch>
-          <Route exact path="/" component={Main} />
+          <Route exact path="/onlinePlatform/" component={Main} />
           <Route exact path="/onlinePlatform/allMent" component={Mentors} />
           <Route exact path="/onlinePlatform/addMent" component={AddMentors} />
           <Route exact path="/onlinePlatform/about" component={Aboutus} />
