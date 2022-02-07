@@ -1,3 +1,4 @@
+
 .maindivadd{
     border: 2px solid black;
     border-radius: 20px;
@@ -25,6 +26,10 @@
 
 .LabelDiv{
     display: inline-flex;
-     column-gap: 420px;
-     
+    column-gap: 420px;
+    
+}
+.maindivadd{
+    color: whitesmoke;
+    background: linear-gradient(360deg, rgba(2,0,36,1) 0%, rgba(50,50,114,1) 42%, rgba(41,137,156,1) 100%);
 }
