@@ -21,14 +21,24 @@
       "id": 4
     },
     {
-      "Name": "fjweqjf",
-      "desig": "qflwekn",
-      "city": "kapod",
-      "phone": "748948989",
-      "Speciality": "goijoig",
-      "country": "foiwefoiw",
-      "Experience": "1+ years",
-      "id": 5
+      "Name": "JK",
+      "desig": "SD",
+      "city": "NAND",
+      "phone": "1234567890",
+      "Speciality": "SOFTWARE",
+      "country": "INDIA",
+      "Experience": "1",
+      "id": 6
+    },
+    {
+      "Name": "JK",
+      "desig": "SE",
+      "city": "NANden",
+      "phone": "132457890",
+      "Speciality": "SE",
+      "country": "India",
+      "Experience": "1",
+      "id": 7
     }
   ]
 }
