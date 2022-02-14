@@ -11,16 +11,6 @@
       "id": 3
     },
     {
-      "Name": "saad mohammad",
-      "desig": "software developer",
-      "city": "nanded",
-      "phone": "986008845",
-      "Speciality": "React",
-      "country": "india",
-      "Experience": "1",
-      "id": 4
-    },
-    {
       "Name": "JK",
       "desig": "SD",
       "city": "NAND",
@@ -39,6 +29,26 @@
       "country": "India",
       "Experience": "1",
       "id": 7
+    },
+    {
+      "Name": "arbaz ak",
+      "desig": "software developer",
+      "city": "nanded",
+      "phone": "9075320714",
+      "Speciality": "react developer",
+      "country": "india",
+      "Experience": "1+ years",
+      "id": 9
+    },
+    {
+      "Name": "arbaz ak",
+      "desig": "software developer",
+      "city": "nanded",
+      "phone": "9075320714",
+      "Speciality": "react developer",
+      "country": "india",
+      "Experience": "1+ years",
+      "id": 10
     }
   ]
 }
